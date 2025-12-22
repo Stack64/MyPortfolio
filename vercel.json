@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "installCommand": "cd my-react-app && npm ci",
   "buildCommand": "cd my-react-app && npm run build",
   "devCommand": "cd my-react-app && npm run dev",
