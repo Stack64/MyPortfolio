@@ -135,11 +135,11 @@ export const education: Education = {
 
 export const contactInfo = {
   name: "Mohd Sohail Khan",
-  email: "sohailrcp@gmail.com",
+  email: "sohaailrcp@gmail.com",
   phone: "+91 7021744274",
   linkedin: "https://linkedin.com/in/sohaailkhan",
   github: "https://github.com/Stack64",
-  website: "https://sohaailkhan.vercel.app"
+  website: "https://sohailkhan.vercel.app"
 };
 
 export const achievements: Achievement[] = [
